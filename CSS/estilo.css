@@ -1,0 +1,71 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	font-family: 'Roboto', sans-serif;
+}
+.altura-a-b{
+	padding: 50px 0;
+}
+
+.logotipo{
+	width: 50px;
+	padding: 2px 0;
+}
+
+.sps--abv{
+	background-color: transparent;
+	color: #000;
+}
+
+.sps--blw{
+	background-color: #2B2B2B;
+	color:#fff;
+}
+
+.container-noticias img {
+    padding: 63px 0 0;
+    margin-left: 22px;
+    margin-bottom: 78px;
+    width: 350px;
+}
+/*
+.container-noticias{
+	padding: 50px 0;
+	margin-left: 100px;
+}
+ */
+
+
+nav.sps--abv .logotipo{
+	width: 60px;
+}
+
+
+.icono-redes-header{
+	width: 32px;
+	margin: 5px 5px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	text-align: center;
+	margin: 20px;
+	padding: 10px;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+}
+
+footer{
+	background-color: #000000;
+	padding: 30px 0;
+	text-align: center;
+}
+
+footer .logotipo-footer{
+	width: 80px;
+	margin-bottom: 10px;
+}
+
+footer p{
+	color: #fff;
+}
+
